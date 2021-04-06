@@ -20,8 +20,8 @@ The app follows the standard procedures of any IRC server
 ### Build and Run
 #### 1. To start the server
 - Switch to the folder App in the project root `cd Go-shell/App`.
-- Build the project `go build .`.
-- Run the compiled file `/.main`.
+- Build the project `go build -o bin/main`.
+- Run the compiled file `/bin/.main`.
 - The server is up and running!<br /><br />
 ![server](https://github.com/routrohan/go-shell/blob/master/Screenshots/server_running.png)<br /><br />
 #### 2. To interact within the app
