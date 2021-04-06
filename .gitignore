@@ -1,4 +1,4 @@
-**/App/*.go
+/App/bin/*
 
 # Binaries for programs and plugins
 *.exe
